@@ -24,7 +24,9 @@ User Interface:
 a. Include a simple text-based for the client to facilitate message input and display.  
 
 
+
 Overview
+
 This is a simple Java-based chat application that allows multiple users to connect to a central server, send messages, and receive messages from other users in real time. The project demonstrates socket programming and multi-threading concepts in Java.
 
 Files
